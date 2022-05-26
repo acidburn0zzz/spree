@@ -270,7 +270,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.5)
     xml-simple (1.1.5)
-    yajl-ruby (1.4.0)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   ruby
